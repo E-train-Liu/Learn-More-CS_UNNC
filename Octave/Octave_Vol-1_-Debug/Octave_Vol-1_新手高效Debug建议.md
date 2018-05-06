@@ -575,7 +575,7 @@ sudo apt install octave
 
 ![](https://raw.githubusercontent.com/E-train-Liu/LearnMoreCS-UNNC/master/Octave/Octave_Vol-1_-Debug/images/ubuntu2.PNG)
 
-敲回车，然后让你输入刚才装系统时你给自己账户设置的密码（Linux中密码很重要，很多事情都要输入密码，瞎设密码导致忘了的话就凉了）。然后你会发现好像程序和卡死了一样，输入密码也不出现“***”什么的。这其实是Linux保护用户密码的机制，为了防止密码被偷窥所以输入密码时连位数都不回显。
+敲回车，然后让你输入刚才装系统时你给自己账户设置的密码（Linux中密码很重要，很多事情都要输入密码，瞎设密码导致忘了的话就凉了）。然后你会发现好像程序和卡死了一样，输入密码也不出现“\*\*\*”什么的。这其实是Linux保护用户密码的机制，为了防止密码被偷窥所以输入密码时连位数都不回显。
 
 ![](https://raw.githubusercontent.com/E-train-Liu/LearnMoreCS-UNNC/master/Octave/Octave_Vol-1_-Debug/images/ubuntu3.PNG)
 
@@ -592,7 +592,7 @@ sudo apt install octave
 
 
 <blockquote>
-\includegraphics{by.png}
+![](https://raw.githubusercontent.com/E-train-Liu/LearnMoreCS-UNNC/master/Octave/Octave_Vol-1_-Debug/images/by.png)
 
 对本文章的使用，请遵循知识共享 4.0 （CC-BY 4.0）许可证。
 
