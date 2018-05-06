@@ -589,9 +589,10 @@ sudo apt install octave
 
 
 
-<blockquote>
-![](https://raw.githubusercontent.com/E-train-Liu/LearnMoreCS-UNNC/master/Octave/Octave_Vol-1_-Debug/images/by.png)
 
+![](https://raw.githubusercontent.com/E-train-Liu/LearnMoreCS-UNNC/master/Octave/Octave_Vol-1_-Debug/images/by.png)
+<blockquote>
+    
 对本文章的使用，请遵循知识共享 4.0 （CC-BY 4.0）许可证。
 
 本文章隶属于“Learn More CS, UNNC!”知识共享项目。
