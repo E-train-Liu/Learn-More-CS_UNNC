@@ -10,7 +10,7 @@ For Algebraic Fraction
 
 When the dividen is a constant, and the order of divisor is 1. Just turn it to logorithm function.
 
-![](http://chart.googleapis.com/chart?cht=tx&chl=\int\frac{1}{x}\,\mathrm{d}x=\ln|x|+C)
+![](http://latex.codecogs.com/png.latex?%5Cint%5Cfrac%7B1%7D%7Bx%7D%5C%2C%5Cmathrm%7Bd%7Dx%3D%5Cln%7Cx%7C&plus;C)
 
 Remember that **this only work when $ bx + d $ is linear**.
 
