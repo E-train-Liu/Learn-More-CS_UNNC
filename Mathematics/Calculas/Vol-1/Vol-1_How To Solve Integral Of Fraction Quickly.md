@@ -1,4 +1,4 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 
 How To Solve Integral Of Fraction Quickly
 =========================================================== 
@@ -10,7 +10,7 @@ For Algebraic Fraction
 
 When the dividen is a constant, and the order of divisor is 1. Just turn it to logorithm function.
 
-$$ \int \frac{1}{x} \, \mathrm{d}x= \ln |x| + C $$
+![](http://chart.googleapis.com/chart?cht=tx&chl= \int \frac{1}{x} \, \mathrm{d}x= \ln |x| + C)
 
 Remember that **this only work when $ bx + d $ is linear**.
 
