@@ -42,7 +42,7 @@ E-train Liu
 
 例如编写下面这样一个程序
 
-```matlab
+```Octave
 function result = isEven1(number)
     % There is an error in this function.
     if mod(number, 2) === 0
